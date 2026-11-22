@@ -1,0 +1,72 @@
+﻿#include "pch-c.h"
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void ARObjectController_Start_m724372E520D878C3A1B03E585D25FE8B673A615E (void);
+extern void ARObjectController_FindTargetIfNeeded_m57B697DA4EF487EC0258DA65FABE19AFF373F5C1 (void);
+extern void ARObjectController_TargetReady_m50832E5EF0B51129BBB7D74290F04CE53E2EBDA9 (void);
+extern void ARObjectController_RotateLeft_m8CCD2DB5672CE12E9E3F952F5A0D1558C022A344 (void);
+extern void ARObjectController_RotateRight_m3DCA0A5A5181F58C09CFD9278DE984987F948E2E (void);
+extern void ARObjectController_ScaleUp_m1E5F86241E9DC5D093BA13CBFA4FCD9B7F7DEDD2 (void);
+extern void ARObjectController_ScaleDown_mCA90BB1F679DC63143A7331CE83873D4C5BE82EA (void);
+extern void ARObjectController_ApplyScale_m0021600EBE9F74ADFB1BC1A4341B7AD8518ED2FC (void);
+extern void ARObjectController_PlayFeedback_m85C1433DADDEA569915C894010179B3F5542BE89 (void);
+extern void ARObjectController__ctor_mF116F10D2C039340304DF2E0E2B68024FC60D672 (void);
+extern void Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6 (void);
+extern void Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B (void);
+static Il2CppMethodPointer s_methodPointers[12] = 
+{
+	ARObjectController_Start_m724372E520D878C3A1B03E585D25FE8B673A615E,
+	ARObjectController_FindTargetIfNeeded_m57B697DA4EF487EC0258DA65FABE19AFF373F5C1,
+	ARObjectController_TargetReady_m50832E5EF0B51129BBB7D74290F04CE53E2EBDA9,
+	ARObjectController_RotateLeft_m8CCD2DB5672CE12E9E3F952F5A0D1558C022A344,
+	ARObjectController_RotateRight_m3DCA0A5A5181F58C09CFD9278DE984987F948E2E,
+	ARObjectController_ScaleUp_m1E5F86241E9DC5D093BA13CBFA4FCD9B7F7DEDD2,
+	ARObjectController_ScaleDown_mCA90BB1F679DC63143A7331CE83873D4C5BE82EA,
+	ARObjectController_ApplyScale_m0021600EBE9F74ADFB1BC1A4341B7AD8518ED2FC,
+	ARObjectController_PlayFeedback_m85C1433DADDEA569915C894010179B3F5542BE89,
+	ARObjectController__ctor_mF116F10D2C039340304DF2E0E2B68024FC60D672,
+	Readme__ctor_m69C325C4C171DCB0312B646A9034AA91EA8C39C6,
+	Section__ctor_m5F732533E4DFC0167D965E5F5DB332E46055399B,
+};
+static const int32_t s_InvokerIndices[12] = 
+{
+	12056,
+	12056,
+	11605,
+	12056,
+	12056,
+	12056,
+	12056,
+	9269,
+	12056,
+	12056,
+	12056,
+	12056,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	12,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
