@@ -1,0 +1,1 @@
+Harywan : saya menemukan bahwa script di rotasi kiri dan kanan pada ARObjectController tidak bekerja. lalu saya mengubah sedikit kode rotasi di dalamnya
